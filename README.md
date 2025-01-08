@@ -29,7 +29,7 @@ This project is not licensed under any specific license. Use at your own risk.
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any questions or inquiries, feel free to reach out via Discord: [Your Discord Server](https://discord.gg/fJNucwSM).
+For any questions or inquiries, feel free to reach out via Discord: [/home/zeq1568](https://discord.gg/uM74wd9SgN).
 
 ---
 
